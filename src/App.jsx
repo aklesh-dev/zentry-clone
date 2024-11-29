@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div className='font-bold text-2xl text-blue-500'>App</div>
+    <main>
+      <h1 className='text-5xl text-violet-300 font-bold font-circular-web'>Awesome wesite of zentry</h1>
+    </main>
   )
 }
 
